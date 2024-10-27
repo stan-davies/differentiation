@@ -1,0 +1,1 @@
+To compile, run: `pdflatex {filename}.tex`
